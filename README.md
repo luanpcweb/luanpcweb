@@ -1,4 +1,4 @@
-![capa_github_luanpcweb](https://raw.githubusercontent.com/luanpcweb/luanpcweb/master/capa-luanpcweb.png)
+![capa_github_luanpcweb](https://raw.githubusercontent.com/luanpcweb/luanpcweb/main/capa-luanpcweb.png)
 
 <center>
   <table>
